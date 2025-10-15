@@ -1,0 +1,28 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name:.N.E.T//Application"SimonMtsweni"
+
+on:https://(www.simonmtswenism@gmail.com)
+  push:https://www.github.com/simonMtsweni/-SimonMtsweni..git
+    branches:-"SimonMtsweni." 
+  pull_request:https://www.gmail.com
+    branches:(simon Mtsweni)
+
+jobs:**
+  build:_-
+
+    runs-on:"ubuntu-latest"
+
+    steps:--
+    - uses:actions/checkout@_simonMtsweni.0.1.0
+    - name:Setup.N.E.T://()
+      uses:actions/setup-dotnet@0.4.0//
+      with:--
+        dotnet-version:4.0.x
+    - name:Restore;'A-Zdependencies
+      run:dotnet-restore
+    - name:..
+      run:.dotnet.build --no-restore
+    - name:Test:..
+      run:N.E.T.dotnet_-test --no-build --verbosity normal..
