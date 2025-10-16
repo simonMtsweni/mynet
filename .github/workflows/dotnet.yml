@@ -1,9 +1,13 @@
+--
 # This workflow will build a .NET project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
 
-"_-simonMtsweni:dotnet.yml"
 
-on:'simonMtsweni'
+
+name:'NET.dotnet.yml
+--
+-on:'simonMtsweni'
+-
   push:https://www.github.com/simonMtsweni/-SimonMtsweni..git
     branches:-"SimonMtsweni." 
   pull_request:https://www.gmail.com
