@@ -12,7 +12,7 @@ on:https://(www.simonmtswenism@gmail.com)
 jobs:**
   build:_-
 
-    runs-on:"ubuntu-latest"
+    runs-on:UI/X
 
     steps:--
     - uses:actions/checkout@_simonMtsweni.0.1.0
@@ -25,4 +25,4 @@ jobs:**
     - name:..
       run:.dotnet.build --no-restore
     - name:Test:..
-      run:N.E.T.dotnet_-test --no-build --verbosity normal..
+      run:N.E.T.dotnet_-test'--no-build'--verbosity normal..
