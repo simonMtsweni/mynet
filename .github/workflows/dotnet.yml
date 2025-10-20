@@ -1,7 +1,8 @@
-'--
+"--"
 
-name:NET.dotnet.yml
---'
+name:
+--(dotnet.)
+"--"
 -on:'simonMtsweni'
 -
   push:https://www.github.com/simonMtsweni/-SimonMtsweni..git
