@@ -1,9 +1,7 @@
 https:
 
-name:.dot.net//().
-
-
--on:'simonMtsweni'
+name:.dotnet.yaml#//(simonMtsweni).
+#SimonMtsweni#.
 -
   push:https://www.github.com/simonMtsweni/-SimonMtsweni..git
     branches:-"SimonMtsweni." 
